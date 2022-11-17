@@ -1,0 +1,8 @@
+cabeçalho GET da logo do cesupa:
+{'Cache-Control': 'max-age=86400', 'Content-Type': 'image/png', 'Last-Modified': 'Mon, 01 Nov 2021 20:10:12 GMT', 'Accept-Ranges': 'bytes', 'ETag': '"b97427a5ccfd71:0"', 'Server': 'Microsoft-IIS/7.5', 'X-Powered-By': 'ASP.NET 2.0', 'Date': 'Thu, 17 Nov 2022 03:30:00 GMT', 'Content-Length': '69530'}
+
+cabeçalho POST httpbin
+{'Date': 'Thu, 17 Nov 2022 03:32:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '398', 'Connection': 'keep-alive', 'Server': 'gunicorn/19.9.0', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Credentials': 'true'}
+
+cabeçalho PATCH httpbin
+{'Date': 'Thu, 17 Nov 2022 03:33:35 GMT', 'Content-Type': 'application/json', 'Content-Length': '399', 'Connection': 'keep-alive', 'Server': 'gunicorn/19.9.0', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Credentials': 'true'}
